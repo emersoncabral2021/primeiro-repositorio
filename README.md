@@ -1,2 +1,4 @@
 # projetos-pessoais
- primeiro repositorio
+ primeiro repositorio no curso de git e github
+
+ 
