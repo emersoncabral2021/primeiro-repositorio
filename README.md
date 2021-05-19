@@ -3,5 +3,5 @@
 
 primeiro commit do curso
 
-sugunda modificação pelo site
+segunda modificação pelo site
 
